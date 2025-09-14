@@ -1,8 +1,5 @@
-Here's a shortened version of your README for easy copying to GitHub:
 
----
-
-# Computer Use Agent
+# COGNIFY Computer Use Agent
 
 An autonomous desktop automation agent that combines LLM reasoning, OCR screen analysis, and PyAutoGUI to perform tasks through natural language commands.
 
@@ -153,8 +150,5 @@ Feel free to extend the agent with additional capabilities, such as web browser 
 
 MIT License.
 
----
-
-This version captures all critical details in a concise format, perfect for easy copying to GitHub! Let me know if you need more changes.
 
 
